@@ -126,3 +126,14 @@ box-sizing: border-box !important;
     width: 209px;
     height: 51px;
 }
+@media screen and(max-width:1070px){
+    .search{
+       display: none;
+    }
+    }
+
+.search{
+    display: flex;
+    max-width: 300px;
+    width: 215px;
+}
